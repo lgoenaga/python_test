@@ -1,0 +1,6 @@
+Account created
+Deposit: 100. new balance: 200
+Account created
+Deposit: 50. new balance: 150
+Account created
+Deposit: 200. new balance: 300
